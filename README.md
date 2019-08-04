@@ -1,4 +1,6 @@
-The repository has six codes in python which cover a variety of topics related to the data structures.
+Date: 4 Aug 2019
+
+The repository has six codes in python which covers a variety of topics related to the data structures.
 
 ## Least Recently Used Cache
 The goal will be to design a data structure known as a Least Recently Used (LRU) cache. An LRU cache is a type of cache in which we remove the least recently used entry when the cache memory reaches its limit.
